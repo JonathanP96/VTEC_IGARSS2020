@@ -1,4 +1,3 @@
-setwd('C:/Users/jonat/Desktop/datos')
 library(readr)
 GALE1=1575.42*10^6
 GALE5a=1176.45*10^6
